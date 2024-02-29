@@ -1,0 +1,21 @@
+.logo-container {
+  width: 250px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.logo-image {
+  width: 31px;
+  height: 34px;
+}
+.logo-text {
+  color: #0392fd;
+  font-size: 32px;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
